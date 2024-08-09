@@ -1,4 +1,4 @@
-# Installation of RabitMQ on Ubuntu:
+# Installation of RabbitMQ on Ubuntu:
 
 Create a sh file, copy the script and save it:
 
